@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\C#\bin\Debug\net8.0-windows\C#.exe
+C:\Users\david\Desktop\C#\bin\Debug\net8.0-windows\C#.deps.json
+C:\Users\david\Desktop\C#\bin\Debug\net8.0-windows\C#.runtimeconfig.json
+C:\Users\david\Desktop\C#\bin\Debug\net8.0-windows\C#.dll
+C:\Users\david\Desktop\C#\bin\Debug\net8.0-windows\C#.pdb
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.AssemblyInfo.cs
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.dll
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\refint\C#.dll
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.pdb
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\C#.genruntimeconfig.cache
+C:\Users\david\Desktop\C#\obj\Debug\net8.0-windows\ref\C#.dll
